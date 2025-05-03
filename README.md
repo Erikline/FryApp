@@ -1,5 +1,29 @@
-As the entirety of the Yolov9 model could not be uploaded to GitHub, I have uploaded the dataset and code that I primarily utilised during my experimentation to the project. 
+# 🔬 YOLOv9 实验代码与数据
 
-If you have any queries pertaining to Yolov9, please contact:22hylin@stu.edu.cn. 
+## 📦 仓库内容与限制
 
-If I receive the email you sent, I will endeavour to assist you with any queries you may have regarding the Yolov9 model process.
+由于 GitHub 文件大小的限制，完整的 YOLOv9 模型未能上传至本仓库。
+
+本仓库包含：
+*   实验期间使用的数据集。
+*   实验中主要使用的核心代码。
+
+## 📧 关于完整模型的联系与支持
+
+如果您有关于**完整的 YOLOv9 模型**或其实现过程的具体问题，并且这些问题超出了本仓库提供代码的范围，请随时通过电子邮件与我联系：
+
+**`22hylin@stu.edu.cn`**
+
+收到您的邮件后，我将尽力协助解答您可能遇到的关于 YOLOv9 模型处理流程的疑问。
+
+## 📄 许可证 (License)
+
+本项目根据 **[MIT 许可证](https://opensource.org/licenses/MIT)** 条款进行许可。
+
+这意味着您被授予了非常广泛的权利，可以自由地使用、复制、修改、合并、出版、分发、再许可 (sublicense) 和/或销售本软件的副本，并且可以允许获得软件副本的人也这样做，但须遵守以下条件：
+
+*   上述版权声明和本许可声明必须包含在本软件的所有副本或主要部分中。
+
+本软件按“原样”提供，不作任何形式的保证，无论是明示的还是默示的，包括但不限于对适销性、特定用途适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任承担任何责任，无论是在合同诉讼、侵权行为还是其他方面，即使是因本软件或本软件的使用或其他处理方式而引起的或与之相关的。
+
+有关完整的许可条款，请参阅项目根目录下的 [`LICENSE`](./LICENSE) 文件。
